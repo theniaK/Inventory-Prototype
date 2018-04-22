@@ -3,7 +3,7 @@
 		"id":0,
 		"title": "Steel Gloves",
 		"value": 6
-		"stats":[{
+		"stats" {
 			"power": 1,
 			"defence": 4,
 			"vitality": 2
@@ -16,7 +16,7 @@
 		"id":1,
 		"title": "Great Stick",
 		"value": 546
-		"stats":[ {
+		"stats" {
 			"power": 3,
 			"defence": 7,
 			"vitality": 5
