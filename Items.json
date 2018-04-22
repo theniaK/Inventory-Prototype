@@ -3,7 +3,7 @@
 		"id":0,
 		"title": "Steel Gloves",
 		"value": 6
-		"stats": {
+		"stats" {
 			"power": 1,
 			"defence": 4,
 			"vitality": 2
